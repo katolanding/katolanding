@@ -81,7 +81,7 @@ Español (nativo) · Coreano (fluido) · Inglés (avanzado)
     <img src="https://cdn.simpleicons.org/gmail/28FB8A"
          alt="Correo electrónico" width="36" height="36" />
   </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+  <a href="https://www.linkedin.com/in/karla-dedios-adrianzen-4596352ab/">
   <img src="https://cdn.simpleicons.org/linkedin/28FB8A"
        alt="LinkedIn" width="36" height="36" />
   </a>
