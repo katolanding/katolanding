@@ -84,7 +84,7 @@ Español (nativo) · Coreano (fluido) · Inglés (avanzado)
   <a href="https://www.linkedin.com/in/TU-USUARIO/">
   <img src="https://cdn.simpleicons.org/linkedin/28FB8A"
        alt="LinkedIn" width="36" height="36" />
-</a>
+  </a>
 </p>
 
 
