@@ -44,8 +44,13 @@ App comunitaria de mascotas con mapa social y funciones de paseos y alertas en f
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=katolanding&amp;show_icons=true&amp;theme=dark&amp;bg_color=07140E&amp;border_color=20A462&amp;title_color=00DE80&amp;icon_color=00DE80&amp;text_color=C5EAD6" alt="Estadísticas públicas de GitHub de katolanding" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katolanding&amp;layout=compact&amp;theme=dark&amp;bg_color=07140E&amp;border_color=20A462&amp;title_color=00DE80&amp;text_color=C5EAD6" alt="Lenguajes predominantes en repositorios públicos de katolanding" />
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=katolanding&show_icons=true&theme=dark&bg_color=07140E&border_color=20A462&title_color=00DE80&icon_color=00DE80&text_color=C5EAD6"
+    alt="Estadísticas de GitHub" />
+
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=katolanding&layout=compact&theme=dark&bg_color=07140E&border_color=20A462&title_color=00DE80&text_color=C5EAD6"
+    alt="Lenguajes más utilizados" />
 
 </div>
 
