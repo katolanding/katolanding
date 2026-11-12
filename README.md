@@ -27,7 +27,8 @@ Soy **Karla Dedios**, estudiante de **Ingeniería en Computación e Informática
 
 Aplicación de productividad académica con gestión de tareas, calendario, temporizador Pomodoro, estadísticas y modo claro/oscuro.
 
-**[Ver aplicación en vivo](https://katolanding.github.io/focuslab-student-dashboard/)** · [Código fuente](https://github.com/katolanding/focuslab-student-dashboard)
+**[Ver aplicación en vivo](https://img.shields.io/badge/VER_APLICACIÓN-28FB8A?style=for-the-badge&labelColor=07140E)](https://katolanding.github.io/focuslab-student-dashboard/)** · [Código fuente](https://img.shields.io/badge/CÓDIGO_FUENTE-28FB8A?style=for-the-badge&labelColor=07140E)](https://github.com/katolanding/focuslab-student-dashboard)
+
 
 ### [Security Log Analyzer](https://github.com/katolanding/security-log-analyzer) · Python / Blue Team
 
@@ -69,21 +70,11 @@ Español (nativo) · Coreano (fluido) · Inglés (avanzado)
 
 ## `$ contact`
 
-<h2><code>$ contact</code></h2>
-
 <p align="center">
-  <a href="https://github.com/katolanding">
-    <img src="./icons/github.svg"
-         alt="GitHub" width="36" height="36" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:karla.ssdd3@gmail.com">
-    <img src="./icons/mail.svg"
-         alt="Correo" width="36" height="36" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/karla-dedios-adrianzen-4596352ab">
-    <img src="./icons/linkedin.svg"
-         alt="LinkedIn" width="36" height="36" />
-  </a>
+  <a href="https://github.com/katolanding"><img src="./icons/github.svg" alt="GitHub" width="36" height="36"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:karla.ssdd3@gmail.com"><img src="./icons/mail.svg" alt="Correo electrónico" width="36" height="36"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/karla-dedios-adrianzen-4596352ab"><img src="./icons/linkedin.svg" alt="LinkedIn" width="36" height="36"></a>
 </p>
+
