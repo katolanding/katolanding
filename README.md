@@ -73,18 +73,17 @@ Español (nativo) · Coreano (fluido) · Inglés (avanzado)
 
 <p align="center">
   <a href="https://github.com/katolanding">
-    <img src="https://cdn.simpleicons.org/github/28FB8A"
+    <img src="./icons/github.svg"
          alt="GitHub" width="36" height="36" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:karla.ssdd3@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/28FB8A"
-         alt="Correo electrónico" width="36" height="36" />
+    <img src="./icons/mail.svg"
+         alt="Correo" width="36" height="36" />
   </a>
-  <a href="https://www.linkedin.com/in/karla-dedios-adrianzen-4596352ab/">
-  <img src="https://cdn.simpleicons.org/linkedin/28FB8A"
-       alt="LinkedIn" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/karla-dedios-adrianzen-4596352ab">
+    <img src="./icons/linkedin.svg"
+         alt="LinkedIn" width="36" height="36" />
   </a>
 </p>
-
-
