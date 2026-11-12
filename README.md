@@ -1,13 +1,39 @@
+<div align="center">
 
-# 💫 Sobre mí:
-$ whoami<br><br>Estudiante de Ingeniería en Computación e Informática<br><br>$ cat interests.txt<br><br>Cybersecurity · Networking · Software Development<br><br>$ current_status<br><br>Buscando Práctica I
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+  <img src="./dark.svg" width="100%" alt="Karla Dedios: perfil de informática, retrato ASCII con barra sobre los ojos" />
+</picture>
 
+</div>
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=katolanding&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=katolanding&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=katolanding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## `$ whoami`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Soy **Karla Dedios**, estudiante de **Ingeniería en Computación e Informática** en la **Universidad Andrés Bello**, Chile. Busco mi primera práctica profesional en TI, con interés en **ciberseguridad**, **desarrollo de software** y **redes**.
+
+## `$ cat stack.txt`
+
+- **Lenguajes:** Java, JavaScript, HTML y CSS; Python (en aprendizaje mediante proyectos).
+- **Desarrollo:** React, Node.js y Java Swing.
+- **Bases de datos:** MySQL, MongoDB.
+- **Sistemas y redes:** Linux, Windows, conceptos de redes TCP/IP.
+- **Herramientas:** Git, GitHub, Bash, Apache NetBeans.
+- **Seguridad:** laboratorios de TryHackMe y DVWA; en preparación para ISC2 Certified in Cybersecurity (CC) (*aún no obtenida*).
+
+## `$ ls projects/`
+
+| Proyecto | Descripción | Estado |
+| --- | --- | --- |
+| **Security Log Analyzer** | Analizador de eventos SSH con Python, detección de IPs con intentos fallidos y pruebas unitarias. | Proyecto personal en desarrollo |
+| **PetConnect** | Aplicación móvil comunitaria para mascotas, con módulo de mapa social. | Beta en desarrollo; repositorio privado |
+| **Sabores Urbanos** | Sistema académico para gestionar restaurante; desarrollo de módulos de clientes y mesas. | Proyecto universitario |
+| **Gestión de gimnasio** | Aplicación de escritorio Java Swing con base de datos MySQL. | Proyecto académico |
+
+## `$ locale --languages`
+
+Español (nativo) · Coreano (fluido) · Inglés (avanzado)
+
+## `$ contact`
+
+[GitHub](https://github.com/katolanding) · [Correo](mailto:karla.ssdd3@gmail.com)
