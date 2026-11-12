@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-  <img src="./dark.svg" width="100%" alt="Karla Dedios: perfil de informática, retrato ASCII con barra sobre los ojos" />
+  <img src="./dark.svg" width="100%" alt="Karla Dedios: retrato ASCII con barra de anonimato y presentación de informática" />
 </picture>
 
 </div>
@@ -21,14 +21,35 @@ Soy **Karla Dedios**, estudiante de **Ingeniería en Computación e Informática
 - **Herramientas:** Git, GitHub, Bash, Apache NetBeans.
 - **Seguridad:** laboratorios de TryHackMe y DVWA; en preparación para ISC2 Certified in Cybersecurity (CC) (*aún no obtenida*).
 
-## `$ ls projects/`
+## `$ ls projects/ --featured`
 
-| Proyecto | Descripción | Estado |
-| --- | --- | --- |
-| **Security Log Analyzer** | Analizador de eventos SSH con Python, detección de IPs con intentos fallidos y pruebas unitarias. | Proyecto personal en desarrollo |
-| **PetConnect** | Aplicación móvil comunitaria para mascotas, con módulo de mapa social. | Beta en desarrollo; repositorio privado |
-| **Sabores Urbanos** | Sistema académico para gestionar restaurante; desarrollo de módulos de clientes y mesas. | Proyecto universitario |
-| **Gestión de gimnasio** | Aplicación de escritorio Java Swing con base de datos MySQL. | Proyecto académico |
+### [Security Log Analyzer](https://github.com/katolanding/security-log-analyzer) · Python / Blue Team
+
+Herramienta educativa que analiza registros de autenticación SSH, cuenta accesos fallidos y exitosos, agrupa eventos por IP y genera informes JSON. Incluye pruebas unitarias y registros ficticios.
+
+[**Ver código y documentación**](https://github.com/katolanding/security-log-analyzer) · [**Ver pruebas**](https://github.com/katolanding/security-log-analyzer/tree/main/tests)
+
+### PetConnect · Aplicación móvil en desarrollo
+
+App comunitaria de mascotas con mapa social y funciones de paseos y alertas en fase beta. **Repositorio privado**; funcionalidades para usuarios reales todavía en desarrollo.
+
+### Otros proyectos académicos
+
+| Proyecto | Tecnologías / contribución |
+| --- | --- |
+| **Sabores Urbanos** | React, Node.js, MongoDB; módulos de clientes y mesas en un sistema de restaurante grupal. |
+| **Gestión de gimnasio** | Aplicación de escritorio con Java Swing y base de datos MySQL. |
+
+## `$ git stats --profile`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=katolanding&amp;show_icons=true&amp;theme=dark&amp;bg_color=07140E&amp;border_color=20A462&amp;title_color=00DE80&amp;icon_color=00DE80&amp;text_color=C5EAD6" alt="Estadísticas públicas de GitHub de katolanding" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katolanding&amp;layout=compact&amp;theme=dark&amp;bg_color=07140E&amp;border_color=20A462&amp;title_color=00DE80&amp;text_color=C5EAD6" alt="Lenguajes predominantes en repositorios públicos de katolanding" />
+
+</div>
+
+<sub>Las tarjetas dependen de un servicio externo y pueden no cargarse temporalmente. Los lenguajes reflejan el código disponible en los repositorios, no el nivel de dominio.</sub>
 
 ## `$ locale --languages`
 
