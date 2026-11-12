@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 $ whoami<br><br>Estudiante de Ingeniería en Computación e Informática<br><br>$ cat interests.txt<br><br>Cybersecurity · Networking · Software Development<br><br>$ current_status<br><br>Buscando Práctica I
 
 
