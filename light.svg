@@ -136,7 +136,7 @@
   <rect x="971" y="470" width="72" height="51" rx="8" fill="#ECFAEF" stroke="#67B88B"/><text x="1007" y="501">Linux</text>
   <rect x="1055" y="470" width="75" height="51" rx="8" fill="#ECFAEF" stroke="#67B88B"/><text x="1092" y="501">Git</text>
  </g>
- <text x="31" y="591" font-family="Consolas,Menlo,DejaVu Sans Mono,monospace" fill="#087D45" font-size="14">&gt;&gt; PROYECTOS:</text>
- <text x="155" y="591" font-family="Consolas,Menlo,DejaVu Sans Mono,monospace" fill="#15392A" font-size="13">PetConnect (privado)  |  Security Log Analyzer (personal)</text>
+ <text x="31" y="591" font-family="Consolas,Menlo,DejaVu Sans Mono,monospace" fill="#087D45" font-size="14">&gt;&gt; PHILOSOPHY:</text>
+ <text x="155" y="591" font-family="Consolas,Menlo,DejaVu Sans Mono,monospace" fill="#15392A" font-size="13">Think. Build. Break. Secure.</text>
  <text x="1143" y="591" text-anchor="end" font-family="Consolas,Menlo,DejaVu Sans Mono,monospace" fill="#087D45" font-size="13">ES  |  KO  |  EN</text>
  </svg>
