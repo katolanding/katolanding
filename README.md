@@ -23,26 +23,25 @@ Soy **Karla Dedios**, estudiante de **Ingeniería en Computación e Informática
 
 ## `$ ls projects/ --featured`
 
-### [FocusLab — Student Dashboard](https://github.com/katolanding/focuslab-student-dashboard) · React / Vite
+<a href="https://github.com/katolanding/focuslab-student-dashboard"><img src="./assets/focuslab-title.svg" alt="FocusLab — Student Dashboard · React / Vite" width="100%" /></a>
 
 Aplicación de productividad académica con gestión de tareas, calendario, temporizador Pomodoro, estadísticas y modo claro/oscuro.
 
-**[Ver aplicación en vivo](https://img.shields.io/badge/VER_APLICACIÓN-28FB8A?style=for-the-badge&labelColor=07140E)](https://katolanding.github.io/focuslab-student-dashboard/)** · [Código fuente](https://img.shields.io/badge/CÓDIGO_FUENTE-28FB8A?style=for-the-badge&labelColor=07140E)](https://github.com/katolanding/focuslab-student-dashboard)
+<a href="https://katolanding.github.io/focuslab-student-dashboard/"><img src="./assets/demo-button.svg" alt="Ver aplicación en vivo" height="32" /></a> &nbsp; <a href="https://github.com/katolanding/focuslab-student-dashboard"><img src="./assets/source-button.svg" alt="Código fuente" height="32" /></a>
 
-
-### [Security Log Analyzer](https://github.com/katolanding/security-log-analyzer) · Python / Blue Team
+<a href="https://github.com/katolanding/security-log-analyzer"><img src="./assets/security-title.svg" alt="Security Log Analyzer · Python / Blue Team" width="100%" /></a>
 
 Analiza registros de autenticación SSH, cuenta accesos fallidos y exitosos, agrupa eventos por IP y genera informes JSON. Incluye pruebas unitarias y registros ficticios.
 
-[Ver código y documentación](https://github.com/katolanding/security-log-analyzer) · [Pruebas](https://github.com/katolanding/security-log-analyzer/tree/main/tests)
+<a href="https://github.com/katolanding/security-log-analyzer"><img src="./assets/source-button.svg" alt="Ver código fuente" height="32" /></a> &nbsp; <a href="https://github.com/katolanding/security-log-analyzer/tree/main/tests"><img src="./assets/tests-button.svg" alt="Ver pruebas" height="32" /></a>
 
-### [Network Service Monitor](https://github.com/katolanding/network-service-monitor) · Python / Redes
+<a href="https://github.com/katolanding/network-service-monitor"><img src="./assets/network-title.svg" alt="Network Service Monitor · Python / Redes" width="100%" /></a>
 
 Comprobación de disponibilidad de servicios TCP indicados explícitamente, tiempos de respuesta e informes JSON. Incluye pruebas con conexiones simuladas, sin tráfico real en los tests.
 
-[Ver código y documentación](https://github.com/katolanding/network-service-monitor) · [Pruebas](https://github.com/katolanding/network-service-monitor/tree/main/tests)
+<a href="https://github.com/katolanding/network-service-monitor"><img src="./assets/source-button.svg" alt="Ver código fuente" height="32" /></a> &nbsp; <a href="https://github.com/katolanding/network-service-monitor/tree/main/tests"><img src="./assets/tests-button.svg" alt="Ver pruebas" height="32" /></a>
 
-### PetConnect · Aplicación móvil en desarrollo
+<img src="./assets/petconnect-title.svg" alt="PetConnect · Aplicación móvil en desarrollo" width="100%" />
 
 App comunitaria de mascotas con mapa social y funciones de paseos y alertas en fase beta. **Repositorio privado**; funcionalidades para usuarios reales todavía en desarrollo.
 
@@ -71,10 +70,8 @@ Español (nativo) · Coreano (fluido) · Inglés (avanzado)
 ## `$ contact`
 
 <p align="center">
-  <a href="https://github.com/katolanding"><img src="./icons/github.svg" alt="GitHub" width="36" height="36"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:karla.ssdd3@gmail.com"><img src="./icons/mail.svg" alt="Correo electrónico" width="36" height="36"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/karla-dedios-adrianzen-4596352ab"><img src="./icons/linkedin.svg" alt="LinkedIn" width="36" height="36"></a>
+  <a href="https://github.com/katolanding"><img src="./icons/github.svg" alt="GitHub" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:karla.ssdd3@gmail.com"><img src="./icons/mail.svg" alt="Correo electrónico" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/karla-dedios-adrianzen-4596352ab"><img src="./icons/linkedin.svg" alt="LinkedIn" width="36" height="36" /></a>
 </p>
 
