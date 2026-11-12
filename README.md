@@ -69,4 +69,22 @@ Español (nativo) · Coreano (fluido) · Inglés (avanzado)
 
 ## `$ contact`
 
-[GitHub](https://github.com/katolanding) · [Correo](mailto:karla.ssdd3@gmail.com)
+<h2><code>$ contact</code></h2>
+
+<p align="center">
+  <a href="https://github.com/katolanding">
+    <img src="https://cdn.simpleicons.org/github/28FB8A"
+         alt="GitHub" width="36" height="36" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:karla.ssdd3@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/28FB8A"
+         alt="Correo electrónico" width="36" height="36" />
+  </a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+  <img src="https://cdn.simpleicons.org/linkedin/28FB8A"
+       alt="LinkedIn" width="36" height="36" />
+</a>
+</p>
+
+
