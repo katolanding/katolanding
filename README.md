@@ -23,11 +23,23 @@ Soy **Karla Dedios**, estudiante de **Ingeniería en Computación e Informática
 
 ## `$ ls projects/ --featured`
 
+### [FocusLab — Student Dashboard](https://github.com/katolanding/focuslab-student-dashboard) · React / Vite
+
+Aplicación de productividad académica con gestión de tareas, calendario, temporizador Pomodoro, estadísticas y modo claro/oscuro.
+
+**[Ver aplicación en vivo](https://katolanding.github.io/focuslab-student-dashboard/)** · [Código fuente](https://github.com/katolanding/focuslab-student-dashboard)
+
 ### [Security Log Analyzer](https://github.com/katolanding/security-log-analyzer) · Python / Blue Team
 
-Herramienta educativa que analiza registros de autenticación SSH, cuenta accesos fallidos y exitosos, agrupa eventos por IP y genera informes JSON. Incluye pruebas unitarias y registros ficticios.
+Analiza registros de autenticación SSH, cuenta accesos fallidos y exitosos, agrupa eventos por IP y genera informes JSON. Incluye pruebas unitarias y registros ficticios.
 
-[**Ver código y documentación**](https://github.com/katolanding/security-log-analyzer) · [**Ver pruebas**](https://github.com/katolanding/security-log-analyzer/tree/main/tests)
+[Ver código y documentación](https://github.com/katolanding/security-log-analyzer) · [Pruebas](https://github.com/katolanding/security-log-analyzer/tree/main/tests)
+
+### [Network Service Monitor](https://github.com/katolanding/network-service-monitor) · Python / Redes
+
+Comprobación de disponibilidad de servicios TCP indicados explícitamente, tiempos de respuesta e informes JSON. Incluye pruebas con conexiones simuladas, sin tráfico real en los tests.
+
+[Ver código y documentación](https://github.com/katolanding/network-service-monitor) · [Pruebas](https://github.com/katolanding/network-service-monitor/tree/main/tests)
 
 ### PetConnect · Aplicación móvil en desarrollo
 
@@ -44,13 +56,8 @@ App comunitaria de mascotas con mapa social y funciones de paseos y alertas en f
 
 <div align="center">
 
-  <img height="165"
-    src="https://github-stats-extended.vercel.app/api?username=katolanding&show_icons=true&theme=dark&bg_color=07140E&border_color=20A462&title_color=00DE80&icon_color=00DE80&text_color=C5EAD6"
-    alt="Estadísticas de GitHub" />
-
-  <img height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=katolanding&layout=compact&theme=dark&bg_color=07140E&border_color=20A462&title_color=00DE80&text_color=C5EAD6"
-    alt="Lenguajes más utilizados" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=katolanding&amp;show_icons=true&amp;theme=dark&amp;bg_color=07140E&amp;border_color=20A462&amp;title_color=00DE80&amp;icon_color=00DE80&amp;text_color=C5EAD6" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=katolanding&amp;layout=compact&amp;theme=dark&amp;bg_color=07140E&amp;border_color=20A462&amp;title_color=00DE80&amp;text_color=C5EAD6" alt="Lenguajes más utilizados en repositorios públicos" />
 
 </div>
 
